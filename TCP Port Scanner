@@ -1,6 +1,8 @@
 TCP Port Scanner -  Scans a target host for open TCP ports.
 
-# port_scanner.py – Lightweight Python port scanner
+
+### port_scanner.py – Lightweight Python port scanner
+
 import socket
 import argparse
 
